@@ -1,1 +1,1 @@
-# data augmentation in image recognition and  object detection
+# Algorithm notes
